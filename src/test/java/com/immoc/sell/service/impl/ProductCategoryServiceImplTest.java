@@ -11,6 +11,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Description: 商品类目Service接口测试类
+ * Created by Liu qi.
+ * Date: 2018-10-15 22:09
+ */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class ProductCategoryServiceImplTest {

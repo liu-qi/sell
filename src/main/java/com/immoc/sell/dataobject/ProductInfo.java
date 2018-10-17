@@ -47,7 +47,7 @@ public class ProductInfo {
     private String productIcon;
 
     /**
-     * 商品状态,0正常1下架
+     * 商品状态,0正常 1下架
      */
     private Integer productStatus;
 
